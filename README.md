@@ -1,1 +1,9 @@
-# ESM206-lab4-part2-kmf
+# My First ReadME
+
+- some
+- bullet
+- points
+
+And other **useful info**!
+
+*YAY*
